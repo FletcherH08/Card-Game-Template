@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   card_name: Scissor
   description: 'Sdfjkdfsghdfsbgdfs]'
-  sprite: {fileID: 0}
+  health: 0
+  cost: 0
+  damage: 0
+  sprite: {fileID: 7766721758921934520, guid: a0e67ef64f91c42729179805076a07ec, type: 3}

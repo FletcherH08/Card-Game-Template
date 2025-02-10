@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c025b4487bfbb41fca186c7d9d6e18a5, type: 3}
   m_Name: rock_data
   m_EditorClassIdentifier: 
-  card_name: 
-  description: 
+  card_name: Rock
+  description: asfdasdf
   health: 0
   cost: 0
   damage: 0
-  sprite: {fileID: 0}
+  sprite: {fileID: -2182124076254010665, guid: 6460a41d9e60b480aa1b58ab07dfa031, type: 3}
