@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: rock_data
   m_EditorClassIdentifier: 
   card_name: Rock
-  description: asfdasdf
+  description: 'Strength: Scissors Weakness: Paper'
   health: 0
   cost: 0
   damage: 0

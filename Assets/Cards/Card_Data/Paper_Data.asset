@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Paper_Data
   m_EditorClassIdentifier: 
   card_name: Paper
-  description: sfsgdfgdsfgsdgdsffdfsgdsf
+  description: 'Strength: Rock Weakness: Rock'
   health: 0
   cost: 0
   damage: 0
